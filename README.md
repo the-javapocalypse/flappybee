@@ -1,6 +1,7 @@
 # flappybee
 
 A simple game in JavaScript similar to Flappy Bird. You might want to check out this [detailed tutorial](http://www.letscodepro.com/flappy-bee-game-javascript-canvas/).
+
 [__Live Demo__](http://flappybee.letscodepro.com/game.html)
 
 ## Built With
